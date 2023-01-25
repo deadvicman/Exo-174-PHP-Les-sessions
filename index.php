@@ -3,7 +3,8 @@
 // Premiere ligne
 session_start();
 $_SESSION['couleur'] = "rouge";
-echo"une variable de session appelée couleur a été définie";
+?>
+<a href="index2.php">Allez vers index2.php</a>
 
 
 
